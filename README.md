@@ -1,4 +1,4 @@
-# Loot Mission
+# LootMission
 > pack_format: 48, versions 1.21 ~ 1.21.1
 뽑힌 임무를 전체 타이틀로 띄우며 해당 임무가 적힌 아이템을 받습니다.
 
